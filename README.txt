@@ -1,0 +1,2 @@
+Python code that calculates and plots the culling factor (for stable and linear growth) for leslie matrices,
+and calculates the unaltered leslie matrix. Values are set for buffalo in nothern territory.
